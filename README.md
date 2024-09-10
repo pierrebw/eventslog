@@ -6,7 +6,7 @@ Set up a system to track and analyze Windows Event Logs using Splunk. I configur
 <br />
 
 
-<h2>Environments Used </h2>
+<h2>Tools Used</h2>
 
 - <b>Parallels</b> 
 - <b>Splunk</b> 
